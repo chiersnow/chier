@@ -1,0 +1,31 @@
+# 偷的规则，先加上试试
+# DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+# DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+# DOMAIN-SUFFIX,ad.weixin.qq.com
+# DOMAIN-SUFFIX,as.weixin.qq.com
+# DOMAIN-KEYWORD,admarvel
+# DOMAIN-SUFFIX,as.weixin.qq.com
+
+
+  DOMAIN-KEYWORD,googleapis
+  DOMAIN-KEYWORD,githubassets
+  DOMAIN-KEYWORD,mihomo
+  DOMAIN-KEYWORD,debian
+  
+  
+  DOMAIN-SUFFIX,github.io
+  DOMAIN-SUFFIX,googleapis.com
+  DOMAIN-SUFFIX,home-assistant.io
+  DOMAIN-SUFFIX,reddit.com
+  DOMAIN-SUFFIX,debian.org
+  DOMAIN-SUFFIX,x.ai
+  DOMAIN-SUFFIX,github.com
+  DOMAIN-SUFFIX,githubusercontent.com
+  DOMAIN-SUFFIX,tongji.baidu.com
+  DOMAIN-SUFFIX,click.simba.taobao.com
+
+
+
+
+
+
