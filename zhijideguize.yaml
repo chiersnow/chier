@@ -1,0 +1,32 @@
+# 偷的规则，先加上试试
+# DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com
+# DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com
+# DOMAIN-SUFFIX,ad.weixin.qq.com
+# DOMAIN-SUFFIX,as.weixin.qq.com
+# DOMAIN-KEYWORD,admarvel
+# DOMAIN-SUFFIX,as.weixin.qq.com
+
+# - DOMAIN,appcloud2.in.zhihu.com  
+# - DOMAIN,mqtt.zhihu.com  
+# - DOMAIN,sugar.zhihu.com
+# - IP-CIDR,118.89.204.198/32
+# - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128  
+
+payload:  
+  - DOMAIN-KEYWORD,googleapis      
+  - DOMAIN-KEYWORD,githubassets
+  - DOMAIN-KEYWORD,mihomo
+  - DOMAIN-KEYWORD,debian 
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,home-assistant.io
+  - DOMAIN-SUFFIX,reddit.com
+  - DOMAIN-SUFFIX,debian.org
+  - DOMAIN-SUFFIX,x.ai
+  - DOMAIN-SUFFIX,github.com  
+  - DOMAIN-SUFFIX,githubusercontent.com  
+  - DOMAIN-SUFFIX,tongji.baidu.com
+  - DOMAIN-SUFFIX,click.simba.taobao.com
+
+
+
