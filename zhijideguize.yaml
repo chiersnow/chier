@@ -17,9 +17,9 @@ payload:
   - DOMAIN-KEYWORD,githubassets
   - DOMAIN-KEYWORD,mihomo
   - DOMAIN-KEYWORD,debian                                           
-  - DOMAIN-KEYWORD,api2.immersivetranslate.com                          
-  - DOMAIN-SUFFIX,immersivetranslate.com                                                             
-  - DOMAIN-SUFFIX,github.com                                                                  
+  - DOMAIN-SUFFIX,api2.immersivetranslate.com                                                        
+  - DOMAIN-SUFFIX,immersivetranslate.com                                                                                       
+  - DOMAIN-SUFFIX,github.com                                                                                      
   - DOMAIN-SUFFIX,github.io                                                                            
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,home-assistant.io
