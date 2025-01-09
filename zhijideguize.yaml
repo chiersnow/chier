@@ -13,13 +13,13 @@
 # - IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128  
 # immersivetranslate.com  
 payload:  
-  - DOMAIN-KEYWORD,googleapis                                                                                                                                                                                                                                        
+  - DOMAIN-KEYWORD,googleapis                                                                                                                                                                                                                                                
   - DOMAIN-KEYWORD,githubassets
   - DOMAIN-KEYWORD,mihomo
   - DOMAIN-KEYWORD,debian 
-  - DOMAIN-immersivetranslate.com               
-  - DOMAIN-SUFFIX,github.com      
-  - DOMAIN-SUFFIX,github.io                              
+  - DOMAIN-SUFFIX,immersivetranslate.com                                       
+  - DOMAIN-SUFFIX,github.com                                                        
+  - DOMAIN-SUFFIX,github.io                                                                            
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,reddit.com
