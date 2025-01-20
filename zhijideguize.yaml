@@ -20,7 +20,8 @@ payload:
   - DOMAIN-KEYWORD,mihomo
   - DOMAIN-KEYWORD,debian                                                         
   - DOMAIN-SUFFIX,api2.immersivetranslate.com                                                                
-  - DOMAIN-SUFFIX,immersivetranslate.com                                                                                       
+  - DOMAIN-SUFFIX,immersivetranslate.com     
+  - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,github.com                                                                                      
   - DOMAIN-SUFFIX,github.io                                                                            
   - DOMAIN-SUFFIX,googleapis.com
