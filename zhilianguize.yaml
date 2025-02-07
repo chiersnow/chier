@@ -14,7 +14,8 @@
 
 payload:  
 
-#  - DOMAIN-SUFFIX,gofile.io
+# - DOMAIN-SUFFIX,gofile.io
+  - DOMAIN-SUFFIX,baidu.com
 
 
 
