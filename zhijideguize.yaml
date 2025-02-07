@@ -32,7 +32,8 @@ payload:
   - DOMAIN-SUFFIX,github.com    
   - DOMAIN-SUFFIX,githubusercontent.com                                                                                                                  
   - DOMAIN-SUFFIX,tongji.baidu.com      
-  - DOMAIN-SUFFIX,click.simba.taobao.com                                                                                                                                                      
+  - DOMAIN-SUFFIX,click.simba.taobao.com  
+  - DOMAIN-SUFFIX,click.cool18.com
 
 
 
