@@ -15,7 +15,7 @@
 
 
 payload:  
-
+  - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-KEYWORD,google                                                                                                                                                                                                                                             
   - DOMAIN-KEYWORD,githubassets
