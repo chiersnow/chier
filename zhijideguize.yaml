@@ -15,7 +15,9 @@
 
 
 payload:  
-  - DOMAIN-KEYWORD,googleapis                                                                                                                                                                                                                                                
+
+  - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-KEYWORD,google                                                                                                                                                                                                                                             
   - DOMAIN-KEYWORD,githubassets
   - DOMAIN-KEYWORD,mihomo
   - DOMAIN-KEYWORD,debian                                                         
