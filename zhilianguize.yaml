@@ -14,9 +14,10 @@
 
 payload:  
 
-# - DOMAIN-SUFFIX,gofile.io
+# - DOMAIN-SUFFIX,gofile.io  http://cloudflarestorage.com/
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-KEYWORD,teamviewer
+  - DOMAIN-KEYWORD,cloudflarestorage
 
 
 
