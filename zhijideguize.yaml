@@ -15,6 +15,7 @@
 
 
 payload:  
+  - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,greasyfork.org
   - DOMAIN-SUFFIX,larksuite.com
