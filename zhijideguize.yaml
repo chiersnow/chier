@@ -18,8 +18,7 @@ payload:
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,greasyfork.org
-  - DOMAIN-SUFFIX,larksuite.com
-  - DOMAIN-KEYWORD,google                                                                                                                                                                                                                                             
+  - DOMAIN-SUFFIX,larksuite.com                                                                                                                                                                                                                                          
   - DOMAIN-KEYWORD,githubassets
   - DOMAIN-KEYWORD,mihomo
   - DOMAIN-KEYWORD,debian                                                         
@@ -28,7 +27,6 @@ payload:
   - DOMAIN-SUFFIX,gofile.io
   - DOMAIN-SUFFIX,github.com                                                                                      
   - DOMAIN-SUFFIX,github.io                                                                            
-  - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,home-assistant.io
   - DOMAIN-SUFFIX,reddit.com
   - DOMAIN-SUFFIX,debian.org
