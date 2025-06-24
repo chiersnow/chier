@@ -19,6 +19,9 @@ payload:
   - DOMAIN-SUFFIX,baidu.com
   - DOMAIN-KEYWORD,teamviewer
   - DOMAIN-KEYWORD,cloudflarestorage
-
+  - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,cm.steampowered.com
+  - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,steamcontent.com
 
 
